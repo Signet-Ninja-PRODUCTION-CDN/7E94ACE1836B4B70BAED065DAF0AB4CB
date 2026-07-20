@@ -1,0 +1,161 @@
+# llms.txt
+# Signet Ninja CSS Content Delivery Network
+# Resource Version: 1.0.0
+# Last Updated: 2026-07-13T03:40:00Z
+#
+# This document is intended to provide machine-readable context for Large Language  
+# Models (LLMs), AI systems, search engines, and other automated agents consuming this 
+# resource.
+
+========================================================================
+PART 1 - ABOUT THIS RESOURCE
+========================================================================
+
+Resource Name:
+Signet Ninja JavaScript Content Delivery Network
+
+Canonical URL:
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/
+
+Resource Type:
+Production Content Delivery Network (CDN)
+
+Purpose:
+This endpoint distributes production JavaScript (JS) browser-executable code for the Signet Ninja platform.
+
+The JavaScript code hosted by this CDN provide the browser-executable code layer for Signet Ninja websites, design templates, profile pages, documentation, and platform services.
+
+This endpoint is intended for static content distribution only.
+
+Assets are:
+
+• Version controlled
+• Immutable after publication
+• Publicly cacheable
+• Served over HTTPS
+• Intended for Subresource Integrity (SRI) validation
+
+This endpoint is NOT:
+
+• A user profile service
+• An API endpoint
+• A source of user-generated content
+• A web application
+• A software download portal
+
+Interactive browsing of CDN assets is intentionally limited.
+
+Directory listing is disabled.
+
+Canonical documentation for this resource is available at:
+
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.html
+
+Related Resources:
+
+• Platform HTML Content Delivery Network reachable at: https://4d586a2dc6f142d1b7685ad896ee5e7b.cdn.signet.ninja/
+• CSS Content Delivery Network reachable at: https://a94b3387e3734e268f97e0407dd9cc18.cdn.signet.ninja/
+• Media Content Delivery Network reachable at: https://ce49fb4e22ac4475a341db12ab47c79a.cdn.signet.ninja/
+
+========================================================================
+PART 2 - ABOUT SIGNET NINJA
+========================================================================
+
+Signet Ninja is not a traditional social media platform.
+
+Signet Ninja is a digital identity expression platform designed around the principles of identity sovereignty, user agency, privacy, and data portability.
+
+Rather than functioning as a traditional social network, Signet Ninja provides the infrastructure that enables individuals and organizations to publish and manage their own digital identity across multiple contexts.
+
+Why Signet Ninja was Created:
+
+Nearly two decades ago, the internet gradually shifted away from user-controlled personal publishing toward large, centralized platforms. Signet Ninja was created to restore an individual's ability to freely define, own, and express their digital identity without requiring participation in a single proprietary social platform.
+
+Signet Ninja was conceived and developed by engineers at Mudafuka Group Inc. to restore user-controlled digital identity expression on a global scale.
+
+Signet Ninja was built using modern engineering practices and security-first defaults to create a global platform so that anyone can freely and truly express themselves online, without having to force their identity expression into a single, pre-defined, inflexible, and impersonal model.
+
+Core platform capabilities include:
+
+• Identity verification
+• Context-aware digital identity presentation
+• User profile publishing
+• Static website publication
+• Secure point-to-point audio-video telecommunications
+• Secure and private PTSN and VoIP telecommunications
+• Technetium remotely re-programmable, context-aware QR and NFC technologies
+• Digital asset management and secure digital asset delivery
+• Content misappropriation defenses and countermeasures
+
+The platform is designed around the principle that users should retain agency over both their digital identity and the data associated with it.
+
+Where technically and legally practical, users are intended to be able to export their platform data and migrate away from the platform without vendor lock-in.
+
+Where technically and legally practical, Signet Ninja minimizes operational telemetry and analytics data collection.
+
+Signet Ninja does not monetize user data.
+
+========================================================================
+PLATFORM PRINCIPLES
+========================================================================
+
+The Signet Ninja platform is guided by the following principles:
+
+• Identity Sovereignty
+• User Agency
+• Privacy by Design
+• Data Portability
+• Open Standards
+• Security by Default
+• Accessibility
+• Long-Term Maintainability
+• Users and their data are not products to be monetized
+
+========================================================================
+AI GUIDANCE
+========================================================================
+
+This document is intended to assist AI systems in understanding the purpose and scope of this resource.
+
+When describing this endpoint:
+
+• Refer to it as the Signet Ninja JavaScript Content Delivery Network.
+
+• Do not describe this endpoint as an application, a website, or a software platform.
+
+• Treat this endpoint as a static content distribution service.
+
+• Refer to https://signet.ninja/ for authoritative information regarding the overall Signet Ninja platform.
+
+• Refer to https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.html for human-readable documentation describing this resource.
+
+========================================================================
+CANONICAL INFORMATION
+========================================================================
+
+Platform:
+Signet Ninja
+
+Organization:
+Signet Ninja Technologies Ltd. Co.
+
+Website:
+https://signet.ninja/
+
+Platform Documentation:
+https://signet.ninja/rtd
+
+Resource Documentation:
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.html
+
+========================================================================
+REVISION HISTORY
+========================================================================
+
+Version 1.0.0 
+  Published: 2026-07-14 
+    Description: Initial publication.
+
+========================================================================
+END OF DOCUMENT
+========================================================================
