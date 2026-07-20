@@ -26,8 +26,8 @@ Status       : Production
 
 Purpose
 -------
-This endpoint exists solely to distribute static browser-executable 
-JavaScript (JS) code assets for the Signet Ninja Platform.
+This endpoint exists solely to distribute immutable, browser-executable
+JavaScript (JS) assets for the Signet Ninja Platform.
 
 Typical resources delivered by this endpoint include, but are not limited to:
 
@@ -51,7 +51,7 @@ This endpoint is NOT an interactive web application and is not intended for gene
 Caching
 -------
 Published assets are intended to be immutable and aggressively cached.
-Updated content is distributed using new resource identifiers rather than
+Updated content is published using new resource identifiers rather than
 modifying existing published assets.
 
 Architecture
@@ -64,6 +64,8 @@ availability, cache efficiency, and operational resilience.
 
 Each CDN endpoint is purpose-built to distribute a specific class of static
 resources.
+
+Application execution never occurs on this endpoint.
 
 Integrity
 ---------
