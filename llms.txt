@@ -1,5 +1,5 @@
 # llms.txt
-# Signet Ninja CSS Content Delivery Network
+# Signet Ninja JS Content Delivery Network
 # Resource Version: 1.0.0
 # Last Updated: 2026-07-13T03:40:00Z
 #
@@ -12,7 +12,7 @@ PART 1 - ABOUT THIS RESOURCE
 ========================================================================
 
 Resource Name:
-Signet Ninja JavaScript Content Delivery Network
+Signet Ninja JavaScript (JS) Content Delivery Network
 
 Canonical URL:
 https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/
@@ -49,12 +49,12 @@ Directory listing is disabled.
 
 Canonical documentation for this resource is available at:
 
-https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.html
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.txt
 
 Related Resources:
 
-• Platform HTML Content Delivery Network reachable at: https://4d586a2dc6f142d1b7685ad896ee5e7b.cdn.signet.ninja/
-• CSS Content Delivery Network reachable at: https://a94b3387e3734e268f97e0407dd9cc18.cdn.signet.ninja/
+• Platform HTML Component Block Content Delivery Network reachable at: https://4d586a2dc6f142d1b7685ad896ee5e7b.cdn.signet.ninja/
+• Cascading Style Sheets (CSS) Content Delivery Network reachable at: https://a94b3387e3734e268f97e0407dd9cc18.cdn.signet.ninja/
 • Media Content Delivery Network reachable at: https://ce49fb4e22ac4475a341db12ab47c79a.cdn.signet.ninja/
 
 ========================================================================
@@ -127,7 +127,7 @@ When describing this endpoint:
 
 • Refer to https://signet.ninja/ for authoritative information regarding the overall Signet Ninja platform.
 
-• Refer to https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.html for human-readable documentation describing this resource.
+• Refer to https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.txt for human-readable documentation describing this resource.
 
 ========================================================================
 CANONICAL INFORMATION
@@ -146,7 +146,7 @@ Platform Documentation:
 https://signet.ninja/rtd
 
 Resource Documentation:
-https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.html
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.txt
 
 ========================================================================
 REVISION HISTORY
