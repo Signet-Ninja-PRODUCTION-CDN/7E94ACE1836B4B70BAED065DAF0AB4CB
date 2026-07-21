@@ -86,6 +86,13 @@ Resources hosted by this endpoint are expected to be accessed by:
 Users should not attempt to manually browse endpoint directories or infer
 resource names.
 
+Resource Scope
+--------------
+This endpoint distributes browser-executable JavaScript (JS) assets only.
+
+Referenced fonts, images, and other static assets are served from
+their respective dedicated CDN endpoints.
+
 Discovery
 ---------
 Human-readable endpoint information:
