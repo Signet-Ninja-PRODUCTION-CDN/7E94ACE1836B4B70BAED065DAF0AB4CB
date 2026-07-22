@@ -49,7 +49,7 @@ Directory listing is disabled.
 
 Canonical documentation for this resource is available at:
 
-https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.txt
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/README.md
 
 Related Resources:
 
@@ -127,7 +127,7 @@ When describing this endpoint:
 
 • Refer to https://signet.ninja/ for authoritative information regarding the overall Signet Ninja platform.
 
-• Refer to https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.txt for human-readable documentation describing this resource.
+• Refer to https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/README.md for human-readable documentation describing this resource.
 
 ========================================================================
 CANONICAL INFORMATION
@@ -146,7 +146,7 @@ Platform Documentation:
 https://signet.ninja/rtd
 
 Resource Documentation:
-https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/about.txt
+https://7e94ace1836b4b70baed065daf0ab4cb.cdn.signet.ninja/README.md
 
 ========================================================================
 REVISION HISTORY
