@@ -1,5 +1,5 @@
 # 7E94ACE1836B4B70BAED065DAF0AB4CB
-...
+```
 
 ===============================================================================
 Signet Ninja Technologies Ltd. Co.
@@ -147,4 +147,4 @@ or to review our knowledge base, please visit:
 © 2026 Signet Ninja Technologies Ltd. Co. All Rights Reserved.
 ===============================================================================
 
-...
+```
