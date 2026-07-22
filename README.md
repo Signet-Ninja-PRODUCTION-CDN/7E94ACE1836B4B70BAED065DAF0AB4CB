@@ -1,4 +1,4 @@
-# 7E94ACE1836B4B70BAED065DAF0AB4CB
+# 7E94ACE1836B4B70BAED065DAF0AB4CB.cdn.signet.ninja
 ```
 ===============================================================================
 Signet Ninja Technologies Ltd. Co.
