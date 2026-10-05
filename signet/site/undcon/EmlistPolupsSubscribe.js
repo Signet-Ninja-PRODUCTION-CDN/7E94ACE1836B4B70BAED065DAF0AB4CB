@@ -22,10 +22,10 @@
 *********************************************************************************/
 
 /*
- * MultiConnect - General Message Submission
+ * MultiConnect - Policy Update Notification Email Subscription Submission
  *
  * Browser-side submission handler for the Signet Ninja
- * MultiConnect General Message Submission form.
+ * MultiConnect Policy Update Email Notification Submission form.
  */
 
 async function EmlistPolupsSubscribe(event) {
