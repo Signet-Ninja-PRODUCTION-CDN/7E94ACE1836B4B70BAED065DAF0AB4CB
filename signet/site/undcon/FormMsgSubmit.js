@@ -1,5 +1,27 @@
+/*********************************************************************************
+**********************************************************************************
+**             LEGAL NOTICE & INTELLECTUAL PROPERTY PROTECTIONS                 **
+**                                                                              **
+** COPYRIGHT NOTICE:                                                            **
+** © 2026 Mudafuka Holdings Ltd. All Rights Reserved.                           **
+** The content of this website, including but not limited to text, source code, **
+** and layout, is protected as a literary work under the Copyright Act          **
+** (17 U.S.C. § 101 et seq.) and international copyright treaties.              **
+**                                                                              **
+** TRADEMARK NOTICE:                                                            **
+** All logos, brand names, and service marks displayed on this site are         **
+** trademarks of Mudafuka Holdings Ltd. or their respective owners.             **
+** Unauthorized use of these trademarks is strictly prohibited.                 **
+**                                                                              **
+** RESTRICTIONS:                                                                **
+** No part of this work may be reproduced, distributed, or transmitted in any   ** 
+** form or by any means, including photocopying, recording, or other electronic ** 
+** or mechanical methods, without prior written permission from the owner.      **
+**                                                                              **
+**********************************************************************************
+*********************************************************************************/
+
 /*
- * Signet Ninja Technologies Ltd. Co.
  * MultiConnect - General Message Submission
  *
  * Browser-side submission handler for the Signet Ninja
