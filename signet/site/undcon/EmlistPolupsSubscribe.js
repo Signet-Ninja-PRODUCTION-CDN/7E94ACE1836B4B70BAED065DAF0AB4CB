@@ -60,7 +60,7 @@ async function EmlistPolupsSubscribe(event) {
 
     /*
      * Construct the JSON payload expected by the
-     * MultiConnect General Message Submission Worker.
+     * MultiConnect Policy Update Notification Email Subscription Worker.
      */
     const payload = {
         "emlist-sub.polups.name":
@@ -77,10 +77,10 @@ async function EmlistPolupsSubscribe(event) {
     try {
         /*
          * Submit the message to the dedicated Signet Ninja
-         * MultiConnect General Message Submission Worker.
+         * MultiConnect Policy Update Notification Email Subscription Worker.
          */
         const response = await fetch(
-            "https://caerbannog-44ee2d20e8e04416b363cbec0d0a540b.signetninja-prod.workers.dev/",
+            "https://caerbannog-912a991df533479eae2f99604daee0d3.signetninja-prod.workers.dev/",
             {
                 method: "POST",
                 headers: {
