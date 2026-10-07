@@ -28,7 +28,7 @@
  * MultiConnect Policy Update Email Notification Submission form.
  */
 
-async function EmlistJobopensSubscribe(event) {
+async function EmlistPlatupannSubscribe(event) {
     event.preventDefault();
 
     const form = event.currentTarget.closest("form");
