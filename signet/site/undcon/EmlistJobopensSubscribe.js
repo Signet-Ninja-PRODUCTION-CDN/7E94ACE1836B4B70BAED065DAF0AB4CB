@@ -80,7 +80,7 @@ async function EmlistJobopensSubscribe(event) {
          * MultiConnect Policy Update Notification Email Subscription Worker.
          */
         const response = await fetch(
-            "https://caerbannog-dc431dcd27c54fa79b04b79f94da0157.signetninja-prod.workers.dev/",
+            "https://caerbannog-dc431dcd27c54fa79b04b79f94da0157.signetninja-prod.workers.dev",
             {
                 method: "POST",
                 headers: {
