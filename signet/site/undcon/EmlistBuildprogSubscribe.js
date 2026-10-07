@@ -22,13 +22,13 @@
 *********************************************************************************/
 
 /*
- * MultiConnect - Policy Update Notification Email Subscription Submission
+ * MultiConnect - Build Progress Email Subscription Submission
  *
  * Browser-side submission handler for the Signet Ninja
- * MultiConnect Policy Update Email Notification Submission form.
+ * MultiConnect Build Proggress Email Subscription Submission form.
  */
 
-async function EmlistJobopensSubscribe(event) {
+async function EmlistBuildprogSubscribe(event) {
     event.preventDefault();
 
     const form = event.currentTarget.closest("form");
