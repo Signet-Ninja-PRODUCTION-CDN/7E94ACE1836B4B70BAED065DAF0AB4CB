@@ -28,7 +28,7 @@
  * MultiConnect Policy Update Email Notification Submission form.
  */
 
-async function EmlistPlatupannSubscribe(event) {
+async function EmlistGenemnlSubscribe(event) {
     event.preventDefault();
 
     const form = event.currentTarget.closest("form");
@@ -63,14 +63,14 @@ async function EmlistPlatupannSubscribe(event) {
      * MultiConnect Policy Update Notification Email Subscription Worker.
      */
     const payload = {
-        "emlist-sub.platupann.name":
-            document.getElementById("emlist-sub.platupann.name").value,
+        "emlist-sub.genemnl.name":
+            document.getElementById("emlist-sub.genemnl.name").value,
 
-        "emlist-sub.platupann.email":
-            document.getElementById("emlist-sub.platupann.email").value,
+        "emlist-sub.genemnl.email":
+            document.getElementById("emlist-sub.genemnl.email").value,
 
-        "emlist-sub.platupann":
-            document.getElementById("emlist-sub.platupann").checked
+        "emlist-sub.genemnl":
+            document.getElementById("emlist-sub.genemnl").checked
 
     };
 
