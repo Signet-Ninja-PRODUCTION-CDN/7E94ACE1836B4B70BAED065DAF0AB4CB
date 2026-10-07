@@ -63,8 +63,8 @@ async function EmlistJobopensSubscribe(event) {
      * MultiConnect Policy Update Notification Email Subscription Worker.
      */
     const payload = {
-        "eemlist-sub.jobopens.name":
-            document.getElementById("eemlist-sub.jobopens.name").value,
+        "emlist-sub.jobopens.name":
+            document.getElementById("emlist-sub.jobopens.name").value,
 
         "emlist-sub.jobopens.email":
             document.getElementById("emlist-sub.jobopens.email").value,
