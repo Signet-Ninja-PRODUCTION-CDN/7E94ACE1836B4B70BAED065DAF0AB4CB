@@ -90,20 +90,15 @@ async function EmlistUnsubscribe(event) {
         "emlist-unsub.jobopens":
             document.getElementById("emlist-unsub.jobopens").checked
 
-  "emlist-unsub.newprods":
+        "emlist-unsub.newprods":
             document.getElementById("emlist-unsub.newprods").checked
 
-  "emlist-unsub.newprods":
+        "emlist-unsub.newprods":
             document.getElementById("emlist-unsub.newprods").checked
 
-  "emlist-sub.buildprog":
-            document.getElementById("emlist-sub.buildprog").checked
+        "emlist-unsub":
+            document.getElementById("emlist-unsub").checked
 
-  "emlist-sub.buildprog":
-            document.getElementById("emlist-sub.buildprog").checked
-
-  "emlist-sub.buildprog":
-            document.getElementById("emlist-sub.buildprog").checked
     };
 
     try {
