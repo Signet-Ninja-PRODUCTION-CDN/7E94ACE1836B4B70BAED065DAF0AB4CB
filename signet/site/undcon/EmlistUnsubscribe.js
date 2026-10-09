@@ -22,10 +22,10 @@
 *********************************************************************************/
 
 /*
- * MultiConnect - Build Progress Email Subscription Submission
+ * MultiConnect - Email Unsubscribe Submission
  *
  * Browser-side submission handler for the Signet Ninja
- * MultiConnect Build Proggress Email Subscription Submission form.
+ * MultiConnect Email Unsubscribe Submission form.
  */
 
 async function EmlistUnsubscribe(event) {
