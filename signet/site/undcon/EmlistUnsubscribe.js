@@ -70,31 +70,25 @@ async function EmlistUnsubscribe(event) {
             document.getElementById("emlist-unsub.all").checked,
       
         "emlist-unsub.polupann":
-            document.getElementById("emlist-unsub.polupann").checked
+            document.getElementById("emlist-unsub.polupann").checked,
         
         "emlist-unsub.genemnl":
-            document.getElementById("emlist-unsub.genemnl").checked
+            document.getElementById("emlist-unsub.genemnl").checked,
   
         "emlist-unsub.buildprog":
-            document.getElementById("emlist-unsub.buildprog").checked
- 
-        "emlist-sub.buildprog":
-            document.getElementById("emlist-sub.buildprog").checked
+            document.getElementById("emlist-unsub.buildprog").checked,
   
         "emlist-unsub.platupann":
-            document.getElementById("emlist-unsub.platupann").checked
-  
-        "emlist-sub.buildprog":
-            document.getElementById("emlist-sub.buildprog").checked
+            document.getElementById("emlist-unsub.platupann").checked,
 
         "emlist-unsub.jobopens":
-            document.getElementById("emlist-unsub.jobopens").checked
+            document.getElementById("emlist-unsub.jobopens").checked,
 
         "emlist-unsub.newprods":
-            document.getElementById("emlist-unsub.newprods").checked
+            document.getElementById("emlist-unsub.newprods").checked,
 
-        "emlist-unsub.newprods":
-            document.getElementById("emlist-unsub.newprods").checked
+        "emlist-unsub.events":
+            document.getElementById("emlist-unsub.events").checked,
 
         "emlist-unsub":
             document.getElementById("emlist-unsub").checked
